@@ -1,4 +1,5 @@
-### Hi there 👋
+<h2 align="center"> Welcome stranger, I like to code in Python and C++ <h2>
+ 
 
 <!--
 **Zeysthingz/Zeysthingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
