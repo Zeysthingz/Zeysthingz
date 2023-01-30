@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on Deep Learning models and ROS packages for Autonomous Driving Car Technology and also I am working with Django web framework.
 
-🌱 I’m currently learning C++ and some web stufs
+🌱 I’m currently learning C++ and some web stuffs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,8 +19,8 @@
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
- 
- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
+ <a href="https://www.ros.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="40" height="40"/> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ros/ros-ar21.svg" alt="django" width="40" height="40"/> </a>
  
 
 
