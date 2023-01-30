@@ -14,6 +14,6 @@
  
  <h3 align="left">Languages and Tools:</h3>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="ttps://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg " alt="bitbucket" width="40" height="40"/> </a>
+<a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="ttps://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg" alt="bitbucket" width="40" height="40"/> </a>
  
 
