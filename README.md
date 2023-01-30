@@ -1,4 +1,6 @@
-<h2 align="center"> Welcome stranger, I like to code in Python and C++ <h2>
+<h1 align="center">Hi 👋, I'm Khalil Selyan</h1>
+<h3 align="center">A passionate software developer /h3>
+
  
 
 <!--
