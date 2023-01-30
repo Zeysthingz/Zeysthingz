@@ -3,6 +3,7 @@
 
 
 🔭 I’m currently working on Deep Learning Models and ROS for Autonomous Driving Car Technology
+
 🌱 I’m currently learning C++ and Python/Django framework
  
 
