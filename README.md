@@ -2,9 +2,9 @@
 <h3 align="center"> Here we go</h3>
 
 
-🔭 I’m currently working on Deep Learning models and ROS packages for Autonomous Driving Car Technology
+🔭 I’m currently working on Deep Learning models and ROS packages for Autonomous Driving Car Technology and also I am working with Django.
 
-🌱 I’m currently learning C++ and Python/Django framework
+🌱 I’m currently learning C++,Django Rest Framework
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
