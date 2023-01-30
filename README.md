@@ -2,9 +2,9 @@
 <h3 align="center"> Here we go</h3>
 
 
-🔭 I’m currently working on Deep Learning models and ROS packages for Autonomous Driving Car Technology and also I am working with Django.
+🔭 I’m currently working on Deep Learning models and ROS packages for Autonomous Driving Car Technology and also I am working with Django web framework.
 
-🌱 I’m currently learning C++,Django Rest Framework
+🌱 I’m currently learning C++ and some web stufs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -15,7 +15,7 @@
  <h3 align="left">Languages and Tools:</h3>
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://bitbucket.org/" target="_blank" rel="noreferrer"> <img src="https://upload.vectorlogo.zone/logos/bitbucket/images/11915f2e-3287-46b6-a81d-0daad8160e11.svg" alt="bitbucket" width="40" height="40"/> </a>
- 
  <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-ar21.svg" alt="gitkraken" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  
 
