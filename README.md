@@ -12,5 +12,6 @@
 <a href="https://www.linkedin.com/in/zeynepakbalik/?originalSubdomain=tr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zeysthingz height="30" width="40" /></a>
 </p>
  
- 
+ <h3 align="left">Languages and Tools:</h3>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  
